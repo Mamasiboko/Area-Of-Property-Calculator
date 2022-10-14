@@ -8,7 +8,7 @@ export default class extends AbstractView {
 
     async getHtml() {
         return `
-            <h1>Posts</h1>
+            <h1>About Us</h1>
             <p>why you not working
             </p>
         `;
